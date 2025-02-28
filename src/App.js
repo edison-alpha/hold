@@ -3,7 +3,6 @@ import './App.css';
 
 const App = () => {
   return (
-    <div className="bg-[#aeb8e4] flex flex-row justify-center w-full">
       <div className="bg-[#aeb8e4] overflow-hidden border border-solid border-black w-[1440px] h-[4324px] relative">
         <div className="absolute w-[1150px] h-[116px] top-4 left-[145px] bg-[#d9d9d9] rounded-[85.5px]">
           <div className="absolute w-[816px] h-[63px] top-[27px] left-[82px]">
@@ -403,7 +402,6 @@ const App = () => {
           </div>
         </div>
       </div>
-    </div>
   );
 };
 
