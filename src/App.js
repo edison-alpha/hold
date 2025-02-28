@@ -242,23 +242,10 @@ const App = () => {
                     © HOLD 2025
                   </div>
 
-                  <a
-                    className="absolute w-[468px] top-[114px] left-[777px] [font-family:'Modak',Helvetica] font-normal text-white text-[32px] tracking-[0] leading-[normal] whitespace-nowrap"
-                    href="https://www.thrive.co.id/service/it-outsourcing-service"
-                    rel="noopener noreferrer"
-                    target="_blank"
-                  >
-                    IT Consultation
-                  </a>
-
                   <p className="absolute w-[272px] top-[287px] left-[1191px] [font-family:'Modak',Helvetica] font-normal text-white text-[32px] tracking-[0] leading-[normal] whitespace-nowrap">
                     Hold On <br />
                     For Dear Life
                   </p>
-
-                  <div className="absolute w-[468px] top-[150px] left-[777px] [font-family:'Modak',Helvetica] font-normal text-white text-[32px] tracking-[0] leading-[normal] whitespace-nowrap">
-                    IT Consultation
-                  </div>
                 </div>
               </div>
 
