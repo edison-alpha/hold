@@ -373,7 +373,7 @@ const App = () => {
           </div>
 
           <p className="absolute top-[1937px] left-[49px] [-webkit-text-stroke:6px_#000000] [font-family:'Modak',Helvetica] font-normal text-white text-[64px] tracking-[1.92px] leading-[64px] whitespace-nowrap">
-            &#34;Burn your cigarette now and hold HOLD&#34; -
+            &#34;Burn your cigarette now and hold HODL&#34; -
           </p>
 
           <div className="absolute w-[345px] h-[343px] top-[1125px] left-72">
