@@ -155,10 +155,10 @@ const App = () => {
           <div className="absolute w-[1024px] h-[113px] top-[847px] left-[354px]">
             <div className="relative w-[1020px] h-[113px] bg-[#d9d9d9]">
               <div className="absolute w-[764px] top-[41px] left-[170px] [font-family:'Modak',Helvetica] font-normal text-[#ff5536] text-[32px] tracking-[0.96px] leading-8 whitespace-nowrap flex items-center gap-4">
-                <span>0x1C51641d1fA0aa078Bf6548cF2E9e57F86Bf082D</span>
+                <span>0xF9C19f0838eAb1c3F31E1bd5A3c340D8736C62B7</span>
                 <svg
                   onClick={() => {
-                    navigator.clipboard.writeText('0x1C51641d1fA0aa078Bf6548cF2E9e57F86Bf082D');
+                    navigator.clipboard.writeText('0xF9C19f0838eAb1c3F31E1bd5A3c340D8736C62B7');
                     alert('Contract address copied!');
                   }}
                   xmlns="http://www.w3.org/2000/svg"
@@ -343,7 +343,7 @@ const App = () => {
               e.currentTarget.style.setProperty('--hover-shadow', 'none');
               e.currentTarget.style.transform = 'scale(1)';
             }}
-            onClick={() => window.open('https://testnet.nad.fun/tokens/0x1C51641d1fA0aa078Bf6548cF2E9e57F86Bf082D', '_blank')}
+            onClick={() => window.open('https://testnet.nad.fun/tokens/0xF9C19f0838eAb1c3F31E1bd5A3c340D8736C62B7', '_blank')}
           >
             NADFUN
           </div>
